@@ -781,6 +781,9 @@ h6,
   font-size: 36px;
   color: #ffffff;
 }
+#extCountdown1-1e .mbr-section-title SPAN {
+  color: #ffffff;
+}
 #header1-9 .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
 }

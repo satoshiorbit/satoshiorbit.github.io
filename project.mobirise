@@ -282,6 +282,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "36px",
               "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff"
             }
           }
         },
