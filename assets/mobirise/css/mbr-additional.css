@@ -776,6 +776,19 @@ h6,
 #content1-r P {
   font-family: 'Open Sans', sans-serif;
 }
+#header1-9 .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-9 .mbr-section-lead {
+  font-family: 'Open Sans', sans-serif;
+}
+#header3-1f .mbr-section-title,
+#header3-1f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1f .mbr-section-title {
+  font-size: 30px;
+}
 #extCountdown1-1e .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
   font-size: 36px;
@@ -784,12 +797,6 @@ h6,
 #extCountdown1-1e .mbr-section-title SPAN {
   color: #ffffff;
   font-size: 30px;
-}
-#header1-9 .mbr-section-title {
-  font-family: 'Open Sans', sans-serif;
-}
-#header1-9 .mbr-section-lead {
-  font-family: 'Open Sans', sans-serif;
 }
 #extMsg-box1-10 P {
   text-align: left;

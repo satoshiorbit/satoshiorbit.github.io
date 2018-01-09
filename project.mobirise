@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 51,
+    "uniqCompNum": 52,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -254,45 +254,6 @@
         {
           "_params": {
             "showTitle": true,
-            "countdown": "2018/03/31",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/qlha26a-2000x991.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#e9e9e9",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "title": "<span style=\"font-weight: normal;\">Token Sales has started<br>USD $1,250 = 10 Million Token</span><br><br><span style=\"font-weight: normal;\">First Investment Report in</span>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extCountdown1",
-          "_anchor": "extCountdown1-1e",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "36px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff",
-              "font-size": "30px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "showArrow": true,
@@ -326,6 +287,68 @@
             ".mbr-section-lead": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "title": "USD $1,250 = 10 Million Tokens",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "countdown": "2018/03/31",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/qlha26a-2000x991.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-weight: normal;\">Token Sales has started<br>USD $1,250 = 10 Million Token</span><br><br><span style=\"font-weight: normal;\">First Investment Report in</span>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCountdown1",
+          "_anchor": "extCountdown1-1e",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff",
+              "font-size": "30px"
             }
           }
         },
