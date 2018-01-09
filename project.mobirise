@@ -284,7 +284,8 @@
               "color": "#ffffff"
             },
             ".mbr-section-title SPAN": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "30px"
             }
           }
         },
