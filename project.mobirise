@@ -398,7 +398,7 @@
           "_params": {
             "showTitle": false,
             "stripedBars": false,
-            "progress1": "5",
+            "progress1": "3",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
