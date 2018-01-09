@@ -23,6 +23,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -787,6 +788,13 @@ h6,
 #extMsg-box1-10 SPAN {
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
+}
+#extProgressBar2-1d .progressbar-title p,
+#extProgressBar2-1d .progressbar-number,
+#extProgressBar2-1d .progressbar-number + span {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
 }
 #content2-19 BLOCKQUOTE {
   color: #ffffff;

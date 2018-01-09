@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 49,
+    "uniqCompNum": 50,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -361,11 +361,48 @@
         },
         {
           "_params": {
+            "showTitle": false,
+            "stripedBars": false,
+            "progress1": "5",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/blockchain-distributed-ledger2-696x434.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#28324e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "Basic Progress Bars",
+          "title1": "Token Sales Started (20 Billion Tokens)",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar2",
+          "_anchor": "extProgressBar2-1d",
+          "_styles": {
+            ".progressbar-title p, .progressbar-number, .progressbar-number + span": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Buy Tokens</b></span></p><p><span style=\"font-style: normal;\">USD $1,250 = 10 millions (10,000,000) tokens. Investors are required to pay by fiat money. Equivalent of tokens will be delivered to the appointed wallet address within 24 hours upon recevial of the fund.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>Sell Tokens</b></span></p><p><span style=\"font-style: normal;\">Investors may request to sell his/her tokens at anytime. Equivalent amount of Ethereum will be delivered to the appointed wallet address upon receival of the SOTDE token.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>Minimum holding period = 3 Months</b></span></p><p><span style=\"font-style: normal;\">Please note that if investor wish to withdraw or cash in before the required holding period of three months. There is a 20% administration charge incurred.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">For further information, please <a href=\"index.html#extHeader4-1a\">contact us</a></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><br></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Buy Tokens</b></span></p><p><span style=\"font-style: normal;\">USD $1,250 = 10 million (10,000,000) tokens. Investors are required to pay by fiat money. Equivalent of tokens will be delivered to the appointed wallet address within 24 hours upon recevial of the fund.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>Sell Tokens</b></span></p><p><span style=\"font-style: normal;\">Investors may request to sell his/her tokens at anytime. Equivalent amount of Ethereum will be delivered to the appointed wallet address upon receival of the SOTDE token.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>Minimum holding period = 3 Months</b></span></p><p><span style=\"font-style: normal;\">Please note that if investor wish to withdraw or cash in before the required holding period of three months. There is a 20% administration charge incurred.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">For further information, please <a href=\"index.html#extHeader4-1a\">contact us</a></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
