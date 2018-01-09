@@ -25,6 +25,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -847,6 +848,11 @@ h6,
 }
 #extFeatures11-15 .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
+}
+#content1-1g P {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: #ffffff;
 }
 #extFooter1-1c .mbr-section-title {
   font-size: 36px;

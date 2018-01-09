@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 52,
+    "uniqCompNum": 53,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -800,6 +800,27 @@
           ],
           "_name": "extHeader4",
           "_anchor": "extHeader4-1a"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "text": "<p>Comprehensive Whitepaper and Development Teams will be published after 20% completion of the token sales</p><p><br></p><p>P2P Crypto Exchange will be released on 31 March 2018</p><p><br></p><p>First investment financial report will be released on 31 March 2018</p><p><br></p><p>Voting of token listing in major exchanges will occur on 31 July 2018</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1g",
+          "_styles": {
+            "P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "18px",
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
