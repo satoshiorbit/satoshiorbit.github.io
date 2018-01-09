@@ -389,7 +389,7 @@
           "_anchor": "extProgressBar2-1d",
           "_styles": {
             ".progressbar-title p, .progressbar-number, .progressbar-number + span": {
-              "color": "#ffffff",
+              "color": "#f7da64",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "22px"
