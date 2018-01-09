@@ -753,7 +753,8 @@
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "46px"
             },
             ".date P": {
               "font-family": "'Open Sans', sans-serif",
