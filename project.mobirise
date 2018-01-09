@@ -852,7 +852,12 @@
             "Extension"
           ],
           "_name": "extHeader4",
-          "_anchor": "extHeader4-1a"
+          "_anchor": "extHeader4-1a",
+          "_styles": {
+            "H2": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
