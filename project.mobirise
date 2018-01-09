@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 56,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -130,7 +130,8 @@
               "color": "#ffffff",
               "text-align": "left",
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "36px"
             },
             "TH": {
               "color": "#ffffff"
@@ -359,7 +360,7 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": "29",
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
@@ -606,7 +607,7 @@
             }
           },
           "title": "Orbitlage",
-          "text": "Buy Bitcoin at xxchanges with discounted prices and immediately sell at exchanges with premium price.",
+          "text": "Buy Bitcoin at exchanges with discounted prices and immediately sell at exchanges with premium price.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -642,6 +643,47 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           }
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "P2P Crypto Exchange",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Coming Soon</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1j"
         },
         {
           "_params": {
@@ -710,6 +752,14 @@
           "_anchor": "extFeatures11-15",
           "_styles": {
             ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".date P": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            "P": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }

@@ -26,6 +26,9 @@
 
 
 
+
+
+
 body,
 input,
 textarea,
@@ -702,6 +705,7 @@ h6,
   color: #ffffff;
   text-align: left;
   font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
 }
 #extTable1-w TH {
   color: #ffffff;
@@ -846,7 +850,22 @@ h6,
 #content2-p BLOCKQUOTE {
   font-family: 'Open Sans', sans-serif;
 }
+#msg-box3-1j .mbr-section-title,
+#msg-box3-1j p {
+  color: #000;
+}
+#msg-box3-1j .mbr-section-title {
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+  color: #ffffff;
+}
 #extFeatures11-15 .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+}
+#extFeatures11-15 .date P {
+  font-family: 'Open Sans', sans-serif;
+}
+#extFeatures11-15 P {
   font-family: 'Open Sans', sans-serif;
 }
 #content1-1g P {
