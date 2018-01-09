@@ -348,7 +348,7 @@
             },
             ".mbr-section-title SPAN": {
               "color": "#ffffff",
-              "font-size": "30px"
+              "font-size": "25px"
             }
           }
         },
@@ -543,7 +543,7 @@
           "_anchor": "extTable1-8",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "32px",
+              "font-size": "30px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "color": "#ffffff"
@@ -557,7 +557,7 @@
             "TH": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "20px",
+              "font-size": "18px",
               "color": "#ffffff"
             }
           }
