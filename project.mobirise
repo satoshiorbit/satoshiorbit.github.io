@@ -534,7 +534,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Month</th><th>USD 1,200</th><th>%</th></tr></thead><tbody><tr><td>3</td><td>$2,160</td><td>±180%</td></tr><tr><td>6</td><td>$7,200</td><td>±600%&nbsp;</td></tr><tr><td>9</td><td>$14,400</td><td>±1,200%&nbsp;</td></tr><tr><td>12</td><td>$21,600</td><td>±1,800%&nbsp;</td></tr></tbody>",
+          "table": "<thead><tr><th>Month</th><th>USD 1,250</th><th>%</th></tr></thead><tbody><tr><td>3</td><td>$2,160</td><td>±180%</td></tr><tr><td>6</td><td>$7,200</td><td>±600%&nbsp;</td></tr><tr><td>9</td><td>$14,400</td><td>±1,200%&nbsp;</td></tr><tr><td>12</td><td>$21,600</td><td>±1,800%&nbsp;</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -555,9 +555,9 @@
               "color": "#ffffff"
             },
             "TH": {
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "font-size": "18px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px",
               "color": "#ffffff"
             }
           }
