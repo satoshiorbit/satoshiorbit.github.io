@@ -350,7 +350,7 @@
             },
             ".mbr-section-title SPAN": {
               "color": "#ffffff",
-              "font-size": "23px"
+              "font-size": "22px"
             }
           }
         },
