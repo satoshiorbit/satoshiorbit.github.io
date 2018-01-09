@@ -24,6 +24,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -774,6 +775,11 @@ h6,
 }
 #content1-r P {
   font-family: 'Open Sans', sans-serif;
+}
+#extCountdown1-1e .mbr-section-title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
+  color: #ffffff;
 }
 #header1-9 .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
