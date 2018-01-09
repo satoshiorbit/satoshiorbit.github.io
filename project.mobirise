@@ -350,7 +350,7 @@
             },
             ".mbr-section-title SPAN": {
               "color": "#ffffff",
-              "font-size": "25px"
+              "font-size": "23px"
             }
           }
         },
@@ -360,13 +360,13 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "29",
+            "imageSize": "24",
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1440x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "@primaryColor",
             "bgText": "Satoshi Orbit Trade",
             "bgTextStyle": "Montserrat",
@@ -378,7 +378,7 @@
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlayOpacity": "0.8"
           },
           "media": {
             "image": {
@@ -420,7 +420,8 @@
             "SPAN": {
               "font-size": "20px",
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
             }
           }
         },

@@ -802,7 +802,7 @@ h6,
 }
 #extCountdown1-1e .mbr-section-title SPAN {
   color: #ffffff;
-  font-size: 25px;
+  font-size: 23px;
 }
 #extMsg-box1-10 P {
   text-align: left;
@@ -811,6 +811,7 @@ h6,
 #extMsg-box1-10 SPAN {
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
+  color: #000000;
 }
 #extProgressBar2-1d .progressbar-title p,
 #extProgressBar2-1d .progressbar-number,
