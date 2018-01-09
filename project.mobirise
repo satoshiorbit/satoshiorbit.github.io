@@ -402,7 +402,7 @@
             }
           },
           "title": "ANIMATED TEXT BACKGROUND",
-          "text": "<span style=\"font-style: normal;\">Name: Satoshi Orbit<br>Symbol: SOTDE<br>Supply: 25 Billion<br>Public: 20 Billion<br>Developer: 5 Billion<br>Network: Ethereum Network</span><br><span style=\"font-style: normal;\">Wallet: ImToken</span><br><br><span style=\"font-style: normal;\">Private Offering:</span><br><span style=\"font-style: normal;\">USD $ 1,250 = 10,000,000 Token</span><br><br><span style=\"font-style: normal;\">Tokens will be distributed to investor wallet address within 48 hours after the receival of the funding.</span><br>",
+          "text": "<b><span style=\"font-style: normal;\">Name: Satoshi Orbit<br>Symbol: SOTDE<br>Supply: 25 Billion<br>Public: 20 Billion<br>Developer: 5 Billion<br>Network: Ethereum Network</span><br><span style=\"font-style: normal;\">Wallet: ImToken</span><br><br><span style=\"font-style: normal;\">Private Offering:</span><br><span style=\"font-style: normal;\">USD $ 1,250 = 10,000,000 Token</span><br><br><span style=\"font-style: normal;\">Tokens will be distributed to investor wallet address within 48 hours after the receival of the funding.</span></b><br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
