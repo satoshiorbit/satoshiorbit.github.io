@@ -777,7 +777,7 @@
             "formColor": "#595959",
             "formStyle": "light",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/telemmglpict000084440620-trans-nvbqzqnjv4bqohns0y5vwbzmxiybjsvrpm7xmmjzgo4tedp1qshbqr4-1280x801.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/shutterstock-252511228-1999x1384.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -786,8 +786,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#c0a375",
-            "overlayOpacity": "0.9"
+            "overlayColor": "#3d8eb9",
+            "overlayOpacity": "0.6"
           },
           "title1": "Contact Us",
           "title2": "",
