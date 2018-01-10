@@ -33,7 +33,9 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -99,18 +101,18 @@
             "colCount": "2",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/sky.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tenx-black-bg-1920x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#212125",
+            "bgColorRadio": false,
+            "bgColor": "#28324e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#fff",
-            "overlayOpacity": 0.4
+            "overlayOpacity": "0.1"
           },
           "title": "2017 ROI",
           "search": "Search:",
