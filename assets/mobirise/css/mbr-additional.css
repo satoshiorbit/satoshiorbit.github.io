@@ -29,6 +29,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -845,11 +847,19 @@ h6,
 }
 #msg-box5-d H3 {
   font-family: 'Open Sans', sans-serif;
+  font-size: 36px;
 }
 #msg-box5-d P {
   font-family: 'Open Sans', sans-serif;
 }
 #content2-p BLOCKQUOTE {
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-1k H3 {
+  font-size: 36px;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-1k P {
   font-family: 'Open Sans', sans-serif;
 }
 #msg-box3-1j .mbr-section-title,
