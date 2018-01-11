@@ -1500,7 +1500,7 @@
             }
           },
           "title": "ANIMATED TEXT BACKGROUND",
-          "text": "<b style=\"font-style: normal;\">名称：Satoshi orbit\n<br>符号：SOTDE\n<br>供应：25亿\n<br>公众：200亿\n<br>开发人员：50亿\n<br>网络：以太坊网络\n<br>钱包：ImToken\n<br>\n<br>私人发售：\n<br>$ 1,250 = 10,000,000代币\n<br>\n<br>代币将在收到资金后的48小时内分发给投资者的钱包地址</b>",
+          "text": "<span style=\"font-style: normal;\">名称：Satoshi orbit\n<br>符号：SOTDE\n<br>供应：25亿\n<br>公众：200亿\n<br>开发人员：50亿\n<br>网络：以太坊网络\n<br>钱包：ImToken\n<br>\n<br>私人发售：\n<br>$ 1,250 = 10,000,000代币\n<br>\n<br>代币将在收到资金后的48小时内分发给投资者的钱包地址</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
@@ -1567,7 +1567,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>购买代币\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">1,250美元= 1千万（10,000,000）代币。 投资者必须以法定货币支付。 等价的代币将在收到资金后24小时内发送到指定的钱包地址</span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>出售代币\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">投资者可以随时要求出售他/她的代币。 收到SOTDE代币后，等值的以太坊数量将交付到指定的钱包地址</span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>最短持有期= 3个月\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">请注意，如果投资者希望在所需的三个月持有期限之前提取或现金。 将会扣除20％的管理费用</span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>欲了解更多信息，请与我们<a href=\"index.html#extHeader4-1a\" class=\"text-success\">联系</a></b></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><br></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>购买代币\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">1,250美元= 1千万（10,000,000）代币。 投资者必须以法定货币支付。 等价的代币将在收到资金后24小时内发送到指定的钱包地址</span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>出售代币\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">投资者可以随时要求出售他/她的代币。 收到SOTDE代币后，等值的以太坊数量将交付到指定的钱包地址</span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>最短持有期= 3个月\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">请注意，如果投资者希望在所需的三个月持有期限之前提取或现金。 将会扣除20％的管理费用</span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>欲了解更多信息，请与我们<a href=\"page2.html#extHeader4-24\" class=\"text-success\">联系</a></b></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2014,27 +2014,6 @@
             }
           },
           "_anchor": "extHeader4-24"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#28324e"
-          },
-          "text": "<p>Comprehensive Whitepaper and Development Teams will be published after 20% completion of the token sales</p><p><br></p><p>P2P Crypto Exchange will be released on 31 March 2018</p><p><br></p><p>First investment financial report will be released on 31 March 2018</p><p><br></p><p>Voting of token listing in major exchanges will occur on 31 July 2018</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "18px",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "content1-25"
         },
         {
           "_params": {
