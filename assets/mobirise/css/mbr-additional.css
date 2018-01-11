@@ -720,6 +720,9 @@ h6,
 #extTable1-w TABLE {
   text-align: left;
 }
+#extTable1-w .mbr-section-title SPAN {
+  font-size: 25px;
+}
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
 }
