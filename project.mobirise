@@ -1527,7 +1527,7 @@
         {
           "_params": {
             "showTitle": false,
-            "stripedBars": false,
+            "stripedBars": true,
             "progress1": "3",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1541,8 +1541,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.6"
           },
           "title": "Basic Progress Bars",
           "title1": "发售开始<br>(200亿 代币&nbsp;)",
