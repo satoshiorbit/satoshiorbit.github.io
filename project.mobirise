@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GM Coin",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1592,7 +1592,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/stode-1-800x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/stode-800x1400.png",
               "width": 1400,
               "link": "",
               "alt": "",
