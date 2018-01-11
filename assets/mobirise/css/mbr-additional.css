@@ -982,7 +982,7 @@ h6,
 
 
 #extMsg-box4-1n SPAN {
-  font-size: 36px;
+  font-size: 25px;
   font-family: 'Open Sans', sans-serif;
 }
 #extMsg-box4-1n P {
@@ -1074,7 +1074,7 @@ h6,
 }
 #header1-1r .mbr-section-title {
   font-family: 'Open Sans', sans-serif;
-  font-size: 48px;
+  font-size: 32px;
 }
 #header1-1r .mbr-section-lead {
   font-family: 'Open Sans', sans-serif;
@@ -1134,6 +1134,9 @@ h6,
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   color: #ffffff;
+}
+#extTable1-1y .mbr-section-title SPAN {
+  font-size: 25px;
 }
 #msg-box5-1z H3 {
   font-family: 'Open Sans', sans-serif;

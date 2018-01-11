@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GM Coin",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -171,7 +171,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-10\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-10\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1027,7 +1027,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-10\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-10\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1174,7 +1174,7 @@
           "_name": "extMsg-box4",
           "_styles": {
             "SPAN": {
-              "font-size": "36px",
+              "font-size": "25px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
@@ -1259,7 +1259,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-10\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box1-10\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1381,7 +1381,7 @@
             ".mbr-section-title": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "48px"
+              "font-size": "32px"
             },
             ".mbr-section-lead": {
               "font-family": "'Open Sans', sans-serif",
@@ -1405,7 +1405,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "title": "USD $1,250 = 10 Million Tokens",
+          "title": "<span style=\"font-weight: normal;\">1,250美元 = &nbsp;1千万代币</span>",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -1432,7 +1432,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "<span style=\"font-weight: normal;\">Token Sales has started<br>USD $1,250 = 10 Million Token</span><br><br><span style=\"font-weight: normal;\">First Investment Report in</span>",
+          "title": "<span style=\"font-weight: normal;\">第一份投资报告</span>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -1567,7 +1567,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>购买代币\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>1,250美元= 1千万（10,000,000）代币。 投资者必须以法定货币支付。 等价的代币将在收到资金后24小时内发送到指定的钱包地址。</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>出售代币\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>投资者可以随时要求出售他/她的代币。 收到SOTDE代币后，等值的以太坊数量将交付到指定的钱包地址。\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>最短持有期= 3个月\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>请注意，如果投资者希望在所需的三个月持有期限之前提取或现金。 将会扣除20％的管理费用。\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>欲了解更多信息，请与我们<a href=\"index.html#extHeader4-1a\">联系</a></b></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><br></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>购买代币\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">1,250美元= 1千万（10,000,000）代币。 投资者必须以法定货币支付。 等价的代币将在收到资金后24小时内发送到指定的钱包地址</span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>出售代币\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">投资者可以随时要求出售他/她的代币。 收到SOTDE代币后，等值的以太坊数量将交付到指定的钱包地址</span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>最短持有期= 3个月\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\">请注意，如果投资者希望在所需的三个月持有期限之前提取或现金。 将会扣除20％的管理费用</span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b>\n</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-style: normal;\"><b>欲了解更多信息，请与我们<a href=\"index.html#extHeader4-1a\" class=\"text-success\">联系</a></b></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1630,7 +1630,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": "0"
           },
-          "title": "Satoshi Orbit 2018<br>回报率目标",
+          "title": "<span style=\"font-weight: normal;\">Satoshi Orbit 2018<br>回报率目标</span>",
           "search": "Search:",
           "info1": "Showing",
           "info2": "entries",
@@ -1660,6 +1660,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "18px",
               "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "25px"
             }
           },
           "_anchor": "extTable1-1y"
@@ -1836,7 +1839,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">即将推出</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">即将推出</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-22"
         },
