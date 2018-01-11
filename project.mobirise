@@ -1352,7 +1352,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": true,
@@ -1371,7 +1371,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">Satoshi Orbit 2018</span>",
-          "text": "回报率目标<br>500% - 1,800%&nbsp;",
+          "text": "Satoshi Orbit 2018<br>回报率目标<br>500% - 1,800%&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
