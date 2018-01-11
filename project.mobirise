@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GM Coin",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1500,7 +1500,7 @@
             }
           },
           "title": "ANIMATED TEXT BACKGROUND",
-          "text": "<span style=\"font-style: normal;\">名称：Satoshi orbit\n<br>符号：SOTDE\n<br>供应：25亿\n<br>公众：200亿\n<br>开发人员：50亿\n<br>网络：以太坊网络\n<br>钱包：ImToken\n<br>\n<br>私人发售：\n<br>$ 1,250 = 10,000,000代币\n<br>\n<br>代币将在收到资金后的48小时内分发给投资者的钱包地址</span>",
+          "text": "<span style=\"font-style: normal;\">名称：Satoshi orbit\n<br>符号：SOTDE\n<br>供应：250亿\n<br>公众：200亿\n<br>开发人员：50亿\n<br>网络：以太坊网络\n<br>钱包：ImToken\n<br>\n<br>私人发售：\n<br>$ 1,250 = 10,000,000代币\n<br>\n<br>代币将在收到资金后的48小时内分发给投资者的钱包地址</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
