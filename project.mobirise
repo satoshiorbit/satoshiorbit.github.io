@@ -25,7 +25,8 @@
         "#232323",
         "#ded1bd",
         "#f1e4d0",
-        "#dbc5a3"
+        "#dbc5a3",
+        "#bad6f9"
       ]
     },
     "versionFirst": "4.4.1",
@@ -553,7 +554,7 @@
               "font-size": "30px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#ffffff"
+              "color": "#bad6f9"
             },
             "TD": {
               "font-family": "'Open Sans', sans-serif",
