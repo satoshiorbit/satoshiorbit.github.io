@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GM Coin",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1952,7 +1952,7 @@
           "title3": "",
           "text1": "",
           "text2": "",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
           "media1": {
             "iconFont": {
               "active": true,
