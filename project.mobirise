@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 57,
+    "uniqCompNum": 59,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -104,7 +104,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tenx-black-bg-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/nodes2-1525x750.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#28324e",
