@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GM Coin",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1165,7 +1165,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "Satoshi Orbit",
-          "text": "<span style=\"font-style: normal;\"><b>中风险 高回酬</b></span>",
+          "text": "<span style=\"font-style: normal;\">中风险 高回酬</span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
