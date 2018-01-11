@@ -31,7 +31,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -703,14 +702,7 @@ h6,
 }
 #extMsg-box4-n P {
   font-family: 'Open Sans', sans-serif;
-}
-#header3-28 .mbr-section-title,
-#header3-28 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-28 .mbr-section-title {
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #extTable1-w .mbr-section-title {
   color: #ffffff;

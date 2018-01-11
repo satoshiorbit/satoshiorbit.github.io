@@ -57,8 +57,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 2,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/cryptocurrency-1-1000x548.jpg",
             "parallax": false,
@@ -77,7 +77,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "Satoshi Orbit",
-          "text": "Strategic Edge in Crypto World<br><br>",
+          "text": "Strategic Edge in Crypto World<br><br><a href=\"page2.html\">中文版</a><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -93,34 +93,10 @@
             },
             "P": {
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
             }
           }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "30px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#a3814c"
-          },
-          "title": "<span style=\"font-weight: normal;\"><a href=\"page2.html\" class=\"text-white\">中文版</a></span>",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-28"
         },
         {
           "_params": {
