@@ -1476,7 +1476,7 @@
             },
             "overlay": true,
             "overlayColor": "#41a85f",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.9"
           },
           "media": {
             "image": {
@@ -1519,7 +1519,7 @@
               "font-size": "20px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "extMsg-box1-1u"
