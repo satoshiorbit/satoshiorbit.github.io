@@ -500,8 +500,8 @@
           "_params": {
             "autoplay": true,
             "fullScreen": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "showBullets": true,
             "bgColor": "#c0a375",
             "timeout": 5,
