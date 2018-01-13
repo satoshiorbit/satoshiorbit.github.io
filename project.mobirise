@@ -523,7 +523,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "showBullets": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#28324e",
             "timeout": 5,
             "slides": [
               {
