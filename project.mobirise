@@ -730,13 +730,13 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "20px",
-              "color": "#ffffff"
+              "color": "#bad6f9"
             },
             "TH": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "18px",
-              "color": "#ffffff"
+              "color": "#bad6f9"
             }
           }
         },
