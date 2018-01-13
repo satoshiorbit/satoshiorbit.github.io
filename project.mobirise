@@ -929,7 +929,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showDates": true,
             "blocks": "6",
             "paddingTop": "1",
@@ -947,7 +947,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "mainTitle": "RoadMap 2018",
+          "mainTitle": "RoadMap 2018<br>*Subject to Changes",
           "mainSubtitle": "",
           "title1": "1",
           "title2": "2",
@@ -995,7 +995,8 @@
             ".mbr-section-title": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "46px"
+              "font-size": "36px",
+              "color": "#f3c649"
             },
             ".date P": {
               "font-family": "'Open Sans', sans-serif",
