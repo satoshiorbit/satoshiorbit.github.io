@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#020202",
         "#212125",
         "#232323",
         "#ded1bd",
         "#f1e4d0",
         "#dbc5a3",
-        "#bad6f9",
-        "#a3814c"
+        "#bad6f9"
       ]
     },
     "versionFirst": "4.4.1",
@@ -102,9 +102,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#28324e"
+            "bgColor": "#020202"
           },
-          "text": "<blockquote><p><b>Important Update</b></p><p>Due to surging price and wild volatility swing of the major cryptocurreny Ethereum, which is caused by &nbsp;the new Ethereum hard fork, EtherZero:</p><p>Fork height: 4936270 block\r</p><p>Time: Jan 19th 2018 GMT 19:00-21:00</p><p>We will commence our trading &amp; purchasing of the cryptocurrency on the 21st Jan 2018.&nbsp;</p></blockquote>",
+          "text": "<blockquote><p><b>Important Update</b></p><p>Due to surging price and wild volatility swing of the major cryptocurreny Ethereum, which is caused by &nbsp;the new Ethereum hard fork, EtherZero:</p><p>Fork height: 4936270 block\n</p><p>Time: Jan 19th 2018 GMT 19:00-21:00</p><p>We will commence our trading &amp; purchasing of the cryptocurrency on the 21st Jan 2018.&nbsp;</p></blockquote>",
           "_tags": [
             "Theme"
           ],
