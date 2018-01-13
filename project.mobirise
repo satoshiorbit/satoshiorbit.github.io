@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GM Coin",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,17 +21,17 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#020202",
         "#212125",
         "#232323",
         "#ded1bd",
         "#f1e4d0",
         "#dbc5a3",
-        "#bad6f9",
-        "#a3814c"
+        "#bad6f9"
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 81,
+    "uniqCompNum": 87,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -95,6 +95,26 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#020202"
+          },
+          "text": "<blockquote><p><b>Important Update (13 Jan 2018)</b></p><p>Due to surging price and wild volatility swing of the major cryptocurreny Ethereum, which is caused by &nbsp;the new Ethereum hard fork, EtherZero:</p><p>Fork height: 4936270 block\n</p><p>Time: Jan 19th 2018 GMT 19:00-21:00</p><p>We will commence our trading &amp; purchasing of the cryptocurrency on the 21st Jan 2018.&nbsp;</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2e",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           }
         },
@@ -478,7 +498,7 @@
             "paddingBottom": 1,
             "bgColor": "#efefef"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Buy Tokens</b></span></p><p><span style=\"font-style: normal;\">USD $1,250 = 10 million (10,000,000) tokens. Investors are required to pay by fiat money. Equivalent of tokens will be delivered to the appointed wallet address within 24 hours upon recevial of the fund.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>Sell Tokens</b></span></p><p><span style=\"font-style: normal;\">Investors may request to sell his/her tokens at anytime. Equivalent amount of Ethereum will be delivered to the appointed wallet address upon receival of the SOTDE token.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>Minimum holding period = 3 Months</b></span></p><p><span style=\"font-style: normal;\">Please note that if investor wish to withdraw or cash in before the required holding period of three months. There is a 20% administration charge incurred.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">For further information, please <a href=\"index.html#extHeader4-1a\" class=\"text-info\">contact us</a></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><br></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Buy Tokens</b></span></p><p><span style=\"font-style: normal;\">USD $1,250 = 10 million (10,000,000) tokens. Investors are required to pay by fiat money. Equivalent of tokens will be delivered to the appointed wallet address within 24 hours upon recevial of the fund.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>Sell Tokens</b></span></p><p><span style=\"font-style: normal;\">Investors may request to sell his/her tokens at anytime. Equivalent amount of Ethereum will be delivered to the appointed wallet address upon receival of the SOTDE token.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>Minimum holding period = 3 Months</b></span></p><p><span style=\"font-style: normal;\">Please note that if investor wish to withdraw or cash in before the required holding period of three months. There is a 20% administration charge incurred.&nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><b>Funding Distribution</b></span></p><p><span style=\"font-style: normal;\">Bitcoin 10%</span></p><p><span style=\"font-style: normal;\">Ethereum 20%</span></p><p><span style=\"font-style: normal;\">Bitcoin Cash 10%</span></p><p><span style=\"font-style: normal;\">ICOs 15%</span></p><p><span style=\"font-style: normal;\">Altcoins 30%</span></p><p><span style=\"font-style: normal;\">Mining 5%</span></p><p><span style=\"font-style: normal;\">Lending 5%</span></p><p><span style=\"font-style: normal;\">Orbitlage 5%</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">For further information, please <a href=\"index.html#extHeader4-1a\" class=\"text-info\">contact us</a></span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -495,6 +515,151 @@
               "color": "#212125"
             }
           }
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#28324e",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180112-233808-617-725x483.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/blockchain-distributed-ledger2-1-696x434.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180108-wa0051-1-680x288.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/c5incrz-2000x1176.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bitcoin-3035876-960-721-960x540.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bitcoinfork4x3-1920x1440.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/telemmglpict000149864482-trans-nvbqzqnjv4bqeji1grhjsosgt35kcrg67xws2wuoei9m-hff16uy7um-1-1280x800.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/qlha26a-1-2000x991.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/telemmglpict000084440620-trans-nvbqzqnjv4bqohns0y5vwbzmxiybjsvrpm7xmmjzgo4tedp1qshbqr4-2-1280x801.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "BOOTSTRAP SLIDER",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_anchor": "slider3-2a"
         },
         {
           "_params": {
@@ -764,7 +929,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showDates": true,
             "blocks": "6",
             "paddingTop": "1",
@@ -782,7 +947,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "mainTitle": "RoadMap 2018",
+          "mainTitle": "RoadMap 2018<br>*Subject to Changes",
           "mainSubtitle": "",
           "title1": "1",
           "title2": "2",
@@ -830,7 +995,8 @@
             ".mbr-section-title": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "46px"
+              "font-size": "36px",
+              "color": "#f3c649"
             },
             ".date P": {
               "font-family": "'Open Sans', sans-serif",
