@@ -31,6 +31,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -703,6 +704,10 @@ h6,
 #extMsg-box4-n P {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
+}
+#content2-2e BLOCKQUOTE {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #extTable1-w .mbr-section-title {
   color: #ffffff;

@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 83,
+    "uniqCompNum": 87,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -95,6 +95,26 @@
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#28324e"
+          },
+          "text": "<blockquote><p><b>Important Update</b></p><p>Due to surging price and wild volatility swing of the major cryptocurreny Ethereum, which is caused by &nbsp;the new Ethereum hard fork, EtherZero:</p><p>Fork height: 4936270 block\r</p><p>Time: Jan 19th 2018 GMT 19:00-21:00</p><p>We will commence our trading &amp; purchasing of the cryptocurrency on the 21st Jan 2018.&nbsp;</p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-2e",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           }
         },
