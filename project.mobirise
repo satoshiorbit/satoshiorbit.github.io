@@ -104,7 +104,7 @@
             "paddingBottom": 1,
             "bgColor": "#020202"
           },
-          "text": "<blockquote><p><b>Important Update (26 Jan 2018)</b></p><p><b>Bitcoin Future expires at GMT 15:59:00</b></p></blockquote>",
+          "text": "<blockquote><p><b>Important Update (26 Jan 2018)</b></p><p><b>- Bitcoin Future expires at GMT 15:59:00</b></p><p><b>- Financial Report date are subjected to changes without advanced notice</b></p></blockquote>",
           "_tags": [
             "Theme"
           ],
