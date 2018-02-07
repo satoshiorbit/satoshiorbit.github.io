@@ -699,7 +699,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Month</th><th>USD $1,250</th><th>%</th></tr></thead><tbody><tr><td>3</td><td>$2,160</td><td>±180%</td></tr><tr><td>6</td><td>$7,200</td><td>±6,000%&nbsp;</td></tr><tr><td>9</td><td>$14,400</td><td>±12,000%&nbsp;</td></tr><tr><td>12</td><td>$21,600</td><td>±18,000%&nbsp;</td></tr></tbody>",
+          "table": "<thead><tr><th>Month</th><th>USD $1,250</th><th>%</th></tr></thead><tbody><tr><td>3</td><td>$2,250</td><td>±180%</td></tr><tr><td>6</td><td>$75,000</td><td>±6,000%&nbsp;</td></tr><tr><td>9</td><td>$150,000</td><td>±12,000%&nbsp;</td></tr><tr><td>12</td><td>$2225,000</td><td>±18,000%&nbsp;</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -1923,7 +1923,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>月</th><th>美元 $1,250</th><th>%</th></tr></thead><tbody><tr><td>3</td><td>$2,160</td><td>±180%</td></tr><tr><td>6</td><td>$7,200</td><td>±6,000%&nbsp;</td></tr><tr><td>9</td><td>$14,400</td><td>±12,000%&nbsp;</td></tr><tr><td>12</td><td>$21,600</td><td>±18,000%&nbsp;</td></tr></tbody>",
+          "table": "<thead><tr><th>月</th><th>美元 $1,250</th><th>%</th></tr></thead><tbody><tr><td>3</td><td>$2,250</td><td>±180%</td></tr><tr><td>6</td><td>$75,000</td><td>±6,000%&nbsp;</td></tr><tr><td>9</td><td>$150,000</td><td>±12,000%&nbsp;</td></tr><tr><td>12</td><td>$225,000</td><td>±18,000%&nbsp;</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
