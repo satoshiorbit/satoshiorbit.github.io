@@ -1108,22 +1108,6 @@
           }
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<iframe src=\"https://services.cognitoforms.com/f/-0uVuoAVRkyj9Lj2NjJSEg?id=45\" style=\"position:relative;width:1px;min-width:100%;*width:100%;\" frameborder=\"0\" scrolling=\"yes\" seamless=\"seamless\" height=\"724\" width=\"100%\"></iframe>\n{JS_CODE_0}",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-2g",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script src=\"https://services.cognitoforms.com/scripts/embed.js\"></script>"
-          ]
-        },
-        {
           "_params": {
             "showTitle": true,
             "showLogo": true,
