@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 88,
+    "uniqCompNum": 89,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -1106,6 +1106,23 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<img class=\"my-image\" src=\"@PROJECT_PATH@/assets/images/code-editor-placeholder.jpg\">\n<div class=\"cognito\">\n{JS_CODE_0}\n{JS_CODE_1}\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2g",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"https://services.cognitoforms.com/s/-0uVuoAVRkyj9Lj2NjJSEg\"></script>",
+            "<script>Cognito.load(\"forms\", { id: \"45\" });</script>"
+          ]
         },
         {
           "_params": {
