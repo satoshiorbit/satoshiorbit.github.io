@@ -235,7 +235,7 @@
             "paddingBottom": 1,
             "bgColor": "#f3c649"
           },
-          "text": "Satoshi Orbit Ecosystem<div>By investing in Satoshi Orbit Public Token Offering , you will acquire:\n</div><div><br></div><div>a) The best perfomaning cryptocurrency which you may keep in your personal crypto-wallet and wait for future gain of 50x - 180x the presence value.</div><div>b) SOTDE token which you can claim bonus/rewards from our W2W Instant Exchange and Blockchain development projects.</div><div>c) Affilaite marketing will also be available for participants who wish to adopt network marketing to achieve financial success.</div><div><br></div><div>Our Theme:</div><div>Everyone can be a millionaire with Satoshi Orbit</div>",
+          "text": "Satoshi Orbit Ecosystem<div>By investing in Satoshi Orbit Public Token Offering , you will acquire:\n</div><div><br></div><div><b>a)</b> The best perfomaning cryptocurrency which you may keep in your personal crypto-wallet and wait for future gain of 50x - 180x the presence value.</div><div><br></div><div><b>b)</b> SOTDE token which you can claim bonus/rewards from our W2W Instant Exchange and Blockchain development projects.</div><div><br></div><div><b>c) </b>Affilaite marketing will also be available for participants who wish to adopt network marketing to achieve financial success.</div><div><br></div><div>Our Theme:</div><div>Everyone can be a millionaire with Satoshi Orbit</div>",
           "_tags": [
             "Theme"
           ],
@@ -1522,7 +1522,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/videoblocks-vertical-scrolling-of-a-cryptocurrency-exchange-rate-panel-3d-render-bbrbixmbf-thumbnail-full01-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/videoblocks-vertical-scrolling-of-a-cryptocurrency-exchange-rate-panel-3d-render_bbrbixmbf_thumbnail-full01-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1909,7 +1909,7 @@
             "paddingBottom": 3,
             "columns": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extfeatures3-bg.jpg",
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures3_bg.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2199,7 +2199,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Title with Solid Background <br><br><br>Coming Soon<br><br><br>",
+          "title": "<br><br><br><br>Coming Soon<br><br><br>",
           "meta": "",
           "_tags": [
             "Theme"
