@@ -77,7 +77,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "Satoshi Orbit",
-          "text": "Strategic Edge in Crypto World<br><br><a href=\"page6.html\" class=\"text-white\">中文版</a><br><br>",
+          "text": "<b>Strategic Edge in Crypto World<br></b><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -315,7 +315,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">中文版&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -857,7 +857,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>&nbsp; | <a href=\"index.html#extHeader4-1a\">Contact</a>",
+          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>",
           "title": "Satoshi Orbit Trade",
           "media": {
             "image": {
@@ -919,7 +919,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">中文版&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1044,7 +1044,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">中文版&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1375,7 +1375,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">中文版&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1467,7 +1467,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>&nbsp; | <a href=\"index.html#extHeader4-1a\">Contact</a>",
+          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>",
           "title": "Satoshi Orbit Trade",
           "media": {
             "image": {
@@ -1710,7 +1710,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">中文版&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1802,7 +1802,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>&nbsp; | <a href=\"index.html#extHeader4-1a\">Contact</a>",
+          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>",
           "title": "Satoshi Orbit Trade",
           "media": {
             "image": {
@@ -2115,7 +2115,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">中文版&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2227,7 +2227,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>&nbsp; | <a href=\"index.html#extHeader4-1a\">Contact</a>",
+          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>",
           "title": "Satoshi Orbit Trade",
           "media": {
             "image": {
@@ -2289,7 +2289,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">中文版&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2381,7 +2381,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>&nbsp; | <a href=\"index.html#extHeader4-1a\">Contact</a>",
+          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>",
           "title": "Satoshi Orbit Trade",
           "media": {
             "image": {
@@ -2456,7 +2456,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">中文版&nbsp;<br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-8\">Token Sales</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"page1.html\">LOCAL P2P Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2561,7 +2561,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>&nbsp; | <a href=\"index.html#extHeader4-1a\">Contact</a>",
+          "list": "<ul>Satoshi Orbit is a decentralized resources based network, powered by blockchain technology and a native SOTDE token.</ul><br><ul>@ 2018 Satoshi Orbit Foundation. 2nd Floor Rutland Grove Center, St James Park. Barbados BB24016</ul><br><a href=\"page7.html\">Terms of Service</a> | <a href=\"page8.html\">Privacy Policy</a>",
           "title": "Satoshi Orbit Trade",
           "media": {
             "image": {
