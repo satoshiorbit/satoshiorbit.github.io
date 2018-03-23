@@ -77,7 +77,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "Satoshi Orbit",
-          "text": "Strategic Edge in Crypto World<br><br><a href=\"page6.html\">中文版</a><br><br>",
+          "text": "Strategic Edge in Crypto World<br><br><a href=\"page6.html\" class=\"text-white\">中文版</a><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -89,13 +89,14 @@
             "SPAN": {
               "font-size": "30px",
               "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#000000"
             },
             "P": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-size": "20px",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
@@ -647,7 +648,7 @@
             "stripedBars": false,
             "progress1": "50",
             "progress2": "30",
-            "progress3": "20",
+            "progress3": "10",
             "progress4": "10",
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1206,7 +1207,7 @@
             "paddingBottom": 1,
             "bgColor": "#c0a375"
           },
-          "text": "Amount of coins and types of coins will be dependent of your initial contribution amount",
+          "text": "Amount of coins and types of coins participant received will be dependent on the initial contribution amount",
           "_tags": [
             "Theme"
           ],
@@ -1553,7 +1554,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#c0a375",
+            "bgColor": "#aecef6",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1564,7 +1565,7 @@
           },
           "title": "PRE MADE BLOCKS",
           "text": "A working functional wallet to wallet cryptocurrency exchange",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Instant Exchange</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Instant Exchange</a>",
           "_tags": [
             "Theme"
           ],
@@ -1575,6 +1576,9 @@
               "font-family": "'Noto Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700",
               "color": "#232323"
+            },
+            ".btn": {
+              "font-size": "14px"
             }
           }
         },
@@ -1777,78 +1781,6 @@
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SATOSHI ORBIT</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-3c"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": false,
-            "formBorder": false,
-            "formColor": "#fafafa",
-            "formStyle": "dark",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/nodes2-1525x750.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "title": "<span style=\"font-weight: normal;\">Contact us for your Crypto Projects (ICO, Wallet, Blockchain Implementation)</span>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET STARTED</a>",
-          "form": {
-            "action": "firdauslee.rhb@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader1",
-          "_anchor": "extHeader1-3j",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "25px"
-            },
-            "SPAN": {
-              "font-size": "22px"
-            }
-          }
         },
         {
           "_params": {
@@ -2086,6 +2018,78 @@
           ],
           "_name": "content1",
           "_anchor": "content1-3f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": false,
+            "formBorder": false,
+            "formColor": "#fafafa",
+            "formStyle": "dark",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg3-1920x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "title": "<span style=\"font-weight: normal;\">Contact us for your Crypto Projects (ICO, Wallet, Blockchain Implementation)</span>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">GET STARTED</a>",
+          "form": {
+            "action": "satoshiorbit@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader1",
+          "_anchor": "extHeader1-3j",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "25px"
+            },
+            "SPAN": {
+              "font-size": "22px"
+            }
+          }
         }
       ]
     },
