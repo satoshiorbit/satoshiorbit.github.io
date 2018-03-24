@@ -441,7 +441,6 @@
               "name": "globe-2",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#2b0680"
             }
@@ -453,7 +452,6 @@
               "name": "laptop",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#2b0680"
             }
@@ -465,7 +463,6 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#2b0680"
             }
@@ -1318,7 +1315,6 @@
               "name": "shopping-basket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#0070ff"
             }
@@ -1330,7 +1326,6 @@
               "name": "target",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#0070ff"
             }
@@ -1342,7 +1337,6 @@
               "name": "briefcase",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#0070ff"
             }
@@ -1987,7 +1981,6 @@
               "name": "globe-2",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#c39f76"
             }
@@ -1999,20 +1992,19 @@
               "name": "photo",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0,
               "color": "#c39f76"
             }
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
               "name": "briefcase",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "#c39f76",
-              "family": "et-line"
+              "color": "#c39f76"
             }
           },
           "media4": {
