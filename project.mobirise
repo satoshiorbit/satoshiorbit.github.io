@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 152,
+    "uniqCompNum": 153,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -664,6 +664,29 @@
           ],
           "_name": "extFeatures1",
           "_anchor": "extFeatures1-3p"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/1y5AYPBlFBg",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-48"
         },
         {
           "_params": {
