@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 153,
+    "uniqCompNum": 154,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -664,6 +664,19 @@
           ],
           "_name": "extFeatures1",
           "_anchor": "extFeatures1-3p"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Everyone should invest a little bit in CryptoCurrency before 2020.&nbsp;</p><p><br></p><p>Bitcoin is expected to rise above $90,000 and global capping for cryptocurrencty is expected to be 3 trillion to 8 trillion by 2020.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-49"
         },
         {
           "_params": {
