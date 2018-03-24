@@ -104,9 +104,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
-            "bgColor": "#efefef"
+            "bgColor": "#aecef6"
           },
-          "text": "<blockquote><p>⁕ Early Birds Event has ended.</p><p><br></p><p>⁕ Please refer to the informations below for public token offering (PTO).</p><p><br></p></blockquote>",
+          "text": "<blockquote><p>⁕ Early Birds Event has ended.</p><p><br></p><p>⁕ Please refer to the informations below for public token offering (PTO).</p><p><br></p><p>⁕ Everyone should invest a little bit in CryptoCurrency before 2020. \n</p><p>\n</p><p>⁕ Bitcoin is expected to rise above $90,000 and global capping for cryptocurrencty is expected to be 3 trillion to 8 trillion by 2020.&nbsp;</p><p><br></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -667,11 +667,11 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Everyone should invest a little bit in CryptoCurrency before 2020.&nbsp;</p><p><br></p><p>Bitcoin is expected to rise above $90,000 and global capping for cryptocurrencty is expected to be 3 trillion to 8 trillion by 2020.&nbsp;</p>",
+          "text": "<p>At Satoshi Orbit, we believe anyone can become a millionaire by 2020</p>",
           "_tags": [
             "Theme"
           ],
