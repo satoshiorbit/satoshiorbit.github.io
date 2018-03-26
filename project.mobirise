@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Satoshi Orbit 1",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1949,7 +1949,7 @@
             "paddingBottom": 1,
             "bgColor": "#41a85f"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\">One Stop World Class Salution for you Crypto-Projects</span></p><p><br></p><p><span style=\"font-style: normal;\">◎ ICO Project: 30 BTC</span></p><p><span style=\"font-style: normal;\">◎ Blockchain Project: 185 BTC</span></p><p><span style=\"font-style: normal;\">◎ Crypto-Wallet: 8 BTC</span></p><p><span style=\"font-style: normal;\">◎ Crypto Project Consulation: 2 BTC</span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\">One Stop World Class Salution for you Crypto-Projects</span></p><p><br></p><p><span style=\"font-style: normal;\">◎ ICO Project: 30 BTC</span></p><p><span style=\"font-style: normal;\">◎ Blockchain Project: 185 BTC</span></p><p><span style=\"font-style: normal;\">◎ Crypto-Wallet: 8 BTC</span></p><p><span style=\"font-style: normal;\">◎ Crypto Project Consulation: 2 BTC</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Want to launch an ICO? </span></p><p><span style=\"font-style: normal;\">Our powerful ICO Express Platform means a transparent and secure funding round for your project.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
