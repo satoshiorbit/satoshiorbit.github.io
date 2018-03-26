@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 155,
+    "uniqCompNum": 157,
     "versionPublish": "4.4.1",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -106,7 +106,7 @@
             "paddingBottom": "1",
             "bgColor": "#aecef6"
           },
-          "text": "<blockquote><p>⁕ Early Birds Event has ended.</p><p><br></p><p>⁕ Please refer to the informations below for public token offering (PTO).</p><p><br></p><p>⁕ Everyone should invest a little bit in CryptoCurrency before 2020.</p><p><br></p><p> \n</p><p>\n</p><p>⁕ Bitcoin is expected to rise above $90,000 and global capping for cryptocurrencty is expected to be 3 trillion to 8 trillion by 2020.&nbsp;</p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\">Huge Plans for Satoshi Orbit as 2018 is moving forward. Constant progress and launching of innovation.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">You may join us by participating in the Satoshi Orbit Public Token Offering, the most unique and profiting cryptocurrency opportunity in the world.</span></p><p><br></p><p>⁕ Early Birds Event has ended.</p><p><br></p><p>⁕ Please refer to the informations below for public token offering (PTO).</p><p><br></p><p>⁕ Everyone should invest a little bit in CryptoCurrency before 2020.</p><p><br></p><p> \n</p><p>\n</p><p>⁕ Bitcoin is expected to rise above $90,000 and global capping for cryptocurrencty is expected to be 3 trillion to 8 trillion by 2020.&nbsp;</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -122,6 +122,19 @@
               "color": "#000000"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<p>News: We will be announcing and revealing <b>MAJOR MASSIVE Collaboration Patnership</b> with one of the largest Asia e-commerce shopping sites soon.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4c"
         },
         {
           "_params": {
