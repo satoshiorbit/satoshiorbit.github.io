@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Satoshi Orbit 1",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -32,7 +32,7 @@
     },
     "versionFirst": "4.4.1",
     "uniqCompNum": 157,
-    "versionPublish": "4.4.1",
+    "versionPublish": "4.6.7",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
@@ -139,7 +139,7 @@
         {
           "_params": {
             "showTitle": true,
-            "countdown": "2018/04/12",
+            "countdown": "2018/04/25",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
