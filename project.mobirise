@@ -142,7 +142,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>Cryptocurrency W2W Exchange</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>Affiliate Section</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-globe-2 mbr-iconfont mbr-iconfont-btn\"></span>Cryptocurrency W2W Exchange</a> <a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-target mbr-iconfont mbr-iconfont-btn\"></span>Affiliate Section</a>",
           "_tags": [
             "Theme"
           ],
@@ -1771,7 +1771,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "3. Blockchain Development",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -2682,7 +2682,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Affiliate",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
