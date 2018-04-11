@@ -1450,6 +1450,7 @@ h6,
   text-align: center;
 }
 
+
 #ext_menu-4f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1527,8 +1528,9 @@ h6,
   color: #000;
 }
 #msg-box3-4k .mbr-section-title {
-  font-size: 25px;
+  font-size: 24px;
   color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box3-4k .lead P {
   color: #ffffff;

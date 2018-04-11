@@ -2837,8 +2837,10 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "font-size": "25px",
-              "color": "#ffffff"
+              "font-size": "24px",
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".lead P": {
               "color": "#ffffff"
@@ -2863,8 +2865,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Affiliate Marketing Program",
-          "text": "<p>We are pleased to launch the Satoshi Orbit Affiliate Program. Invite your friends to join our platform you will receive your affiliate networking bonus</p>",
+          "title": "Affiliate Marketing Program<br>Unilevel Plan",
+          "text": "<p>We are pleased to launch the Satoshi Orbit Unilevel Affiliate Program. Invite your friends to join our platform you will receive your affiliate networking bonus</p>",
           "_tags": [
             "Theme"
           ],
@@ -2880,8 +2882,8 @@
             "ShowTexts": true,
             "showButtons": true,
             "iconsBgColor": "#e6e6e6",
-            "paddingTop": 3,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": 3,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
@@ -2943,13 +2945,13 @@
               "family": "et-line"
             }
           },
-          "title1": "Sign Up",
+          "title1": "*Sign Up",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "By joining this program, you &nbsp;will be able to make up 29% affiliate marketing bonus from your group.&nbsp;",
-          "title2": "Log In",
+          "caption1": "By joining this program, you &nbsp;will be able to make up to 29% affiliate marketing bonus from your group.&nbsp;",
+          "title2": "*Log In",
           "subtitle2": "One of Bootstrap 4s big points",
           "caption2": "Log in to view and to manage your affiliate marketing bonus. You must sign up first before you can log in.",
-          "title3": "Payment Notification",
+          "title3": "*Payment Notification",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Please notify us after you had contributed your ETHER so that we can key in your contribution",
           "title4": "Unlimited Sites",
