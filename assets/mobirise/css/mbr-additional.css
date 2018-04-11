@@ -1449,3 +1449,92 @@ h6,
   color: #ffffff;
   text-align: center;
 }
+
+#ext_menu-4f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-4f .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-4f .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-4f .close-icon::before,
+#ext_menu-4f .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-4f .link,
+#ext_menu-4f .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-4f .link {
+  font-size: 0.75rem;
+}
+#ext_menu-4f .dropdown-item,
+#ext_menu-4f .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-4f .link:hover,
+#ext_menu-4f .dropdown-item:hover,
+#ext_menu-4f .link:focus,
+#ext_menu-4f .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-4f .link[aria-expanded="true"],
+#ext_menu-4f .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-4f .nav-dropdown-sm .link:focus,
+#ext_menu-4f .nav-dropdown-sm .link:hover,
+#ext_menu-4f .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-4f .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-4f .navbar,
+#ext_menu-4f .nav-dropdown-sm,
+#ext_menu-4f .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-4f .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-4f .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-4f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-4f .bg-color.transparent.opened .link:hover,
+#ext_menu-4f .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-4f .link[aria-expanded="true"],
+#ext_menu-4f .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#extFooter1-4g .mbr-section-title {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+}
+#extFooter1-4g UL {
+  color: #ffffff;
+}
+#extFooter1-4g DIV {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box3-4k .mbr-section-title,
+#msg-box3-4k p {
+  color: #000;
+}
+#msg-box3-4k .mbr-section-title {
+  font-size: 25px;
+}
+#extFeatures5-4j .mbr-iconfont-features4 {
+  color: #e6e6e6 !important;
+}
+#extFeatures5-4j .wraper {
+  border-color: #e6e6e6 !important;
+}
+#extFeatures6-4l .card-img {
+  background-color: #ffffff !important;
+}
