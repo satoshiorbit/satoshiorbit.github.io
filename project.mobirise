@@ -58,7 +58,7 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "4",
-            "paddingBottom": "3",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/888108-2000x1000.png",
             "parallax": false,
