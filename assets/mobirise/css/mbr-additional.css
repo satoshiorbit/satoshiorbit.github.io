@@ -692,12 +692,15 @@ h6,
 #extMsg-box4-n SPAN {
   font-size: 30px;
   font-family: 'Open Sans', sans-serif;
-  color: #000000;
+  color: #ffffff;
 }
 #extMsg-box4-n P {
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
   color: #000000;
+}
+#extMsg-box4-n B {
+  color: #ffffff;
 }
 #content2-2e BLOCKQUOTE {
   color: #ffffff;
