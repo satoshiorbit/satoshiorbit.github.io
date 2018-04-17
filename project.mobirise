@@ -58,9 +58,9 @@
             "showText": true,
             "showButtons": false,
             "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/888108-2000x1000.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mercado-criptoactivos-alza-1280x640.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
@@ -73,7 +73,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#2969b0",
+            "overlayColor": "#000000",
             "overlayOpacity": "0.7"
           },
           "title": "Satoshi Orbit",
