@@ -163,7 +163,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "inverse": false,
@@ -209,7 +209,7 @@
             }
           },
           "title": "Satoshi Orbit",
-          "text": "<span style=\"font-style: normal;\">Satoshi Orbit enables investors to gain exposure to the cryptocurrency market through a tokenized fund designed to deliver superior risk adjusted returns.\n<br></span>\n<br><span style=\"font-style: normal;\">SOTDER tokens (SOTDE) represent fractional ownership in the Net Asset Value (NAV) of Satoshi Orbit.\n<br></span>\n<br><span style=\"font-style: normal;\">The objective of the project is to produce consistently superior risk adjusted absolute returns that are largely uncorrelated with the returns from other traditional asset classes. The goal of the project is to profit from the emerging crypto asset class while employing sophisticated risk management techniques to protect downside risk for our investors. (Absolute Return fund/reinvesting profits)</span>",
+          "text": "<span style=\"font-style: normal;\"><b>About Satoshi Orbit<br></b>Satoshi Orbit enables investors to gain exposure to the cryptocurrency market through a tokenized fund designed to deliver superior risk adjusted returns.\n<br></span>\n<br><span style=\"font-style: normal;\">SOTDER tokens (SOTDE) represent fractional ownership in the Net Asset Value (NAV) of Satoshi Orbit.\n<br></span>\n<br><span style=\"font-style: normal;\">The objective of the project is to produce consistently superior risk adjusted absolute returns that are largely uncorrelated with the returns from other traditional asset classes. The goal of the project is to profit from the emerging crypto asset class while employing sophisticated risk management techniques to protect downside risk for our investors. (Absolute Return fund/reinvesting profits)</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
@@ -229,6 +229,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-size": "23px",
               "text-align": "left"
+            },
+            "SPAN": {
+              "color": "#ffffff"
             }
           }
         },
