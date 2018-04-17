@@ -325,53 +325,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "collapseAll": false,
-            "tabs": "3",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5
-          },
-          "title": "About Satoshi Orbit",
-          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_57\" data-core=\"\" href=\"#collapseOne_57\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Satoshi Orbit?</a>",
-          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_57\" data-core=\"\" href=\"#collapseTwo_57\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
-          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
-          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
-          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
-          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text1": "<p>Satoshi Orbit enables investors to gain exposure to the cryptocurrency market through a tokenized fund designed to deliver superior risk adjusted returns.</p><br><p>SOTDER tokens (SOTDE) represent fractional ownership in the Net Asset Value (NAV) of Satoshi Orbit.</p><br><p>The objective of the project is to produce consistently superior risk adjusted absolute returns that are largely uncorrelated with the returns from other traditional asset classes. The goal of the project is to profit from the emerging crypto asset class while employing sophisticated risk management techniques to protect downside risk for our investors. (Absolute Return fund/reinvesting profits)</p>",
-          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
-          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
-          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extAccordion1",
-          "_anchor": "extAccordion1-4m",
-          "_styles": {
-            "H1": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "25px"
-            }
-          }
-        },
-        {
-          "_params": {
             "showText": false
           },
           "media": {
