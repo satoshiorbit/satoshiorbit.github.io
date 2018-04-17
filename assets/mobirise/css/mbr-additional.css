@@ -26,6 +26,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -726,6 +727,12 @@ h6,
 }
 #extMsg-box1-4n P {
   font-family: 'Lato', sans-serif;
+  text-align: left;
+}
+#extMsg-box1-4n H3 {
+  font-family: 'Lato', sans-serif;
+  font-size: 23px;
+  text-align: left;
 }
 #content2-2e BLOCKQUOTE {
   color: #ffffff;

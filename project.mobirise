@@ -163,13 +163,13 @@
         },
         {
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "inverse": false,
             "imageSize": "31",
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/tenx-black-bg-1920x1080.jpg",
             "parallax": true,
@@ -208,7 +208,7 @@
               "size": 250
             }
           },
-          "title": "ANIMATED TEXT BACKGROUND",
+          "title": "Satoshi Orbit",
           "text": "<span style=\"font-style: normal;\">Satoshi Orbit enables investors to gain exposure to the cryptocurrency market through a tokenized fund designed to deliver superior risk adjusted returns.\n<br></span>\n<br><span style=\"font-style: normal;\">SOTDER tokens (SOTDE) represent fractional ownership in the Net Asset Value (NAV) of Satoshi Orbit.\n<br></span>\n<br><span style=\"font-style: normal;\">The objective of the project is to produce consistently superior risk adjusted absolute returns that are largely uncorrelated with the returns from other traditional asset classes. The goal of the project is to profit from the emerging crypto asset class while employing sophisticated risk management techniques to protect downside risk for our investors. (Absolute Return fund/reinvesting profits)</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
           "bgTextP": "ANIMATED TEXT BACKGROUND",
@@ -221,7 +221,14 @@
           "_styles": {
             "P": {
               "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "left"
+            },
+            "H3": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "23px",
+              "text-align": "left"
             }
           }
         },
