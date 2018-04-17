@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 166,
+    "uniqCompNum": 168,
     "versionPublish": "4.6.7",
     "favicon": "@PROJECT_PATH@/assets/images/orbit1-128x128.png",
     "noImageResize": "",
@@ -77,7 +77,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "Satoshi Orbit",
-          "text": "<b>Strategic Edge in Crypto World<br></b><br><br>",
+          "text": "<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -100,6 +100,128 @@
             },
             "B": {
               "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "3",
+            "colCount": "3",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/888108-2000x1000.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#0070ff",
+            "overlayOpacity": "0.8"
+          },
+          "title": "<span style=\"font-weight: normal;\">Products</span><br>",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Product</th><th>Description</th><th>Rewards</th></tr></thead><tbody><tr><td><b>1. Coins</b></td><td>Invest in most pontential coins &amp; tokens in the market&nbsp;</td><td>Expecting 5,000% to 18,000% return</td></tr><tr><td><b>2. W2W Exchange</b></td><td>Instant Cryptocurrency Exchange</td><td>Monthly revenue sharing from trading fee</td></tr><tr><td><b>3. Blockchain Development</b></td><td>Launching ICO for global startup &amp; Blockchain Implementation</td><td>10% revenue sharing for participants</td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-2m",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "24px",
+              "color": "#ffffff"
+            },
+            "TH": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#ffffff"
+            },
+            "TD": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "left",
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "31",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tenx-black-bg-1920x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#90a878",
+            "bgText": "Animated text background",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#b69869",
+            "bgTextSize": 250,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/orbit2-472x472.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "ANIMATED TEXT BACKGROUND",
+          "text": "<span style=\"font-style: normal;\">Satoshi Orbit enables investors to gain exposure to the cryptocurrency market through a tokenized fund designed to deliver superior risk adjusted returns.\n<br></span>\n<br><span style=\"font-style: normal;\">SOTDER tokens (SOTDE) represent fractional ownership in the Net Asset Value (NAV) of Satoshi Orbit.\n<br></span>\n<br><span style=\"font-style: normal;\">The objective of the project is to produce consistently superior risk adjusted absolute returns that are largely uncorrelated with the returns from other traditional asset classes. The goal of the project is to profit from the emerging crypto asset class while employing sophisticated risk management techniques to protect downside risk for our investors. (Absolute Return fund/reinvesting profits)</span>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SUBSCRIBE</a>",
+          "bgTextP": "ANIMATED TEXT BACKGROUND",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box1",
+          "_anchor": "extMsg-box1-4n",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           }
         },
@@ -194,54 +316,47 @@
         {
           "_params": {
             "showTitle": true,
-            "showSearch": false,
-            "rowСount": "3",
-            "colCount": "3",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/888108-2000x1000.png",
-            "parallax": true,
-            "bgColorRadio": false,
+            "collapseAll": false,
+            "tabs": "3",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#0070ff",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Products</span>",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th>Product</th><th>Description</th><th>Rewards</th></tr></thead><tbody><tr><td><b>1. Coins</b></td><td>Invest in most pontential coins &amp; tokens in the market&nbsp;</td><td>Expecting 5,000% to 18,000% return</td></tr><tr><td><b>2. W2W Exchange</b></td><td>Instant Cryptocurrency Exchange</td><td>Monthly revenue sharing from trading fee</td></tr><tr><td><b>3. Blockchain Development</b></td><td>Launching ICO for global startup &amp; Blockchain Implementation</td><td>10% revenue sharing for participants</td></tr></tbody>",
+          "title": "About Satoshi Orbit",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_57\" data-core=\"\" href=\"#collapseOne_57\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is Satoshi Orbit?</a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_57\" data-core=\"\" href=\"#collapseTwo_57\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Is it good for me?</a>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Why Mobirise?</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFour\" aria-expanded=\"false\" aria-controls=\"collapseFour\">This is a accordion Title 4</a>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text1": "<p>Satoshi Orbit enables investors to gain exposure to the cryptocurrency market through a tokenized fund designed to deliver superior risk adjusted returns.</p><br><p>SOTDER tokens (SOTDE) represent fractional ownership in the Net Asset Value (NAV) of Satoshi Orbit.</p><br><p>The objective of the project is to produce consistently superior risk adjusted absolute returns that are largely uncorrelated with the returns from other traditional asset classes. The goal of the project is to profit from the emerging crypto asset class while employing sophisticated risk management techniques to protect downside risk for our investors. (Absolute Return fund/reinvesting profits)</p>",
+          "text2": "<p>Mobirise is perfect for non-techies who are not familiar with the intricacies of web development and for designers who prefer to work as visually as possible, without fighting with code. Also great for pro-coders for fast prototyping and small customers' projects.</p>",
+          "text3": "<p>Key differences from traditional builders:<br>* Minimalistic, extremely <strong>easy-to-use</strong> interface<br>* <strong>Mobile</strong>-friendliness, latest website blocks and techniques \"out-the-box\"<br>* <strong>Free</strong> for commercial and non-profit use</p>",
+          "text4": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extTable1",
-          "_anchor": "extTable1-2m",
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-4m",
           "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "24px",
-              "color": "#ffffff"
-            },
-            "TH": {
-              "color": "#ffffff"
-            },
-            "B": {
-              "color": "#ffffff"
-            },
-            "TD": {
-              "color": "#ffffff"
+            "H1": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "25px"
             }
           }
         },
